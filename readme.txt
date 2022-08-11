@@ -1,6 +1,6 @@
 ;---------------------------------------------------------------------------------------------------------------------------------
 ;           STI-ACSS algorithm for cloud and cloud shadow detection in PlanetScope time-series images
-;           Developed by Jing Wang, email: w1012j@163.com / lucyjing@hku.hk
+;           Developed by Jing Wang, email: w1012j@163.com
 ;           Division for Ecology and Biodiversity, School of Biological Sciences, University of Hong Kong                 
 ;           update date:  2021-07-20
 ;           Copyright belong to Jing Wang
@@ -10,7 +10,7 @@
 ;           "Automatic cloud and cloud shadow detection in tropical areas for PlanetScope satellite images", 
 ;           Remote sensing of Enviroment, Volume 264, 2021, 112604, ISSN 0034-4257, https://doi.org/10.1016/j.rse.2021.112604. Accepted in 11/07/2021
 ;
-; If you have any problem in running this code, please feel free to contact w1012j@163.com / lucyjing@hku.hk
+; If you have any problem in running this code, please feel free to contact w1012j@163.com
 ; We also welcome any suggestions/comments about this algorithom/code.
 ;---------------------------------------------------------------------------------------------------------------------------------
 This code is written by Matlab
